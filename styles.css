@@ -1,6 +1,7 @@
 /*  your css code here. If applicable */
-.selector{
-    font-color:#00f;
-    background-color:#eee;
-
+.selector {
+font-family: Arial;
+font-size: 20px;
+color: #00f;
+background-color: #eee;
 }
